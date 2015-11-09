@@ -8,4 +8,4 @@ function LongestWord(sen) {
 		return b.length - a.length;});
 	return array[0];
 };
-console.log(LongestWord("this is Sparta"))
+console.log(LongestWord("this is anna"))
