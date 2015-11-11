@@ -5,7 +5,7 @@ Use the Parameter Testing feature in the box below to test your code with differ
 
 function PrimeTime(num) {
 	for ( var i = 2; i < num; i++ ) {
-		if ( num % i == 0 )
+		if ( num % i === 0 )
 			return false;
 	}
 	return true;
