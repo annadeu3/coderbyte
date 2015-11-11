@@ -13,4 +13,4 @@ function ArithGeo(arr) {
 		}
 	}
 };
-console.log(ArithGeo[2,4,16,24]);
+console.log(ArithGeo([2,4,16,24]));
